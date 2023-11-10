@@ -1,0 +1,22 @@
+<div class="md:hidden block text-white text-[40px] pt-[30px]">
+          <img
+            src="./images/header.home/menu.png"
+            class="w-full h-1/2"
+            alt=""
+          />
+        </div>
+        #menu,#close{
+            display: none;
+          }
+          div.menuu{
+            width: 100vh;
+            height: 100vh;
+            background: #000;
+            display: none;
+          }
+          #menu:checked ~ div.menuu{
+            display: block;
+          }
+          #close:checked ~ div.menuu{
+            display: none;
+          }
