@@ -1,0 +1,291 @@
+{
+  "products": [
+    {
+      "posts": [
+        { "id": "1", "title": "a title" },
+        { "id": "2", "title": "another title" }
+      ],
+      "comments": [
+        { "id": "1", "text": "a comment about post 1", "postId": "1" },
+        { "id": "2", "text": "another comment about post 1", "postId": "1" }
+      ],
+      "profile": {
+        "name": "typicode"
+      }
+    }
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "link": "index.html",
+      "name": "Home",
+      "zirmenu": [
+        { "id": "1", "link": "#", "name": "test-1" },
+        { "id": "2", "link": "#", "name": "test-2" },
+        { "id": "3", "link": "#", "name": "test-3" }
+      ]
+    },
+    { "id": "2", "link": "aboutus.html", "name": "About us", "zirmenu": [] },
+    { "id": "3", "link": "features.html", "name": "Features", "zirmenu": [] },
+    { "id": "4", "link": "pricing.html", "name": "Pricing", "zirmenu": [] },
+    { "id": "4", "link": "#", "name": "FAQ", "zirmenu": [] },
+    { "id": "5", "link": "#", "name": "Blog", "zirmenu": [] },
+    { "id": "6", "link": "#", "name": "Contact us", "zirmenu": [] }
+  ],
+  "svgfineswite": [
+    { "link": "url(#clip0_4004_500)", "id": "clip0_4004_500" }
+  ],
+  "text-header": [
+    { "text": "Building stellar websites for early startups", "id": "1" },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+      "id": "1"
+    },
+    {
+      "text": "View our work",
+      "id": "1",
+      "textt": "View Pricing",
+      "link": "http://www.w3.org/2000/svg"
+    }
+  ],
+  "work": [
+    { "text": "How we work", "id": "1" },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "id": "2"
+    },
+    {
+      "text": "Get in touch with us",
+      "id": "3",
+      "link": "http://www.w3.org/2000/svg"
+    }
+  ],
+  "work2": [
+    { "id": "0", "link": "http://www.w3.org/2000/svg", "name": "Strategy" },
+    {
+      "id": "1",
+      "name": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam ."
+    },
+    { "id": "2", "name": "01" },
+    { "id": "3", "link": "http://www.w3.org/2000/svg", "name": "Wireframing" },
+    {
+      "id": "4",
+      "name": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam ."
+    },
+    { "id": "5", "name": "02" },
+    { "id": "6", "link": "http://www.w3.org/2000/svg", "name": "Design" },
+    {
+      "id": "7",
+      "name": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam ."
+    },
+    { "id": "8", "name": "03" },
+    { "id": "9", "link": "http://www.w3.org/2000/svg", "name": "Development" },
+    {
+      "id": "10",
+      "name": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam ."
+    },
+    { "id": "11", "name": "04" }
+  ],
+  "project": [
+    { "id": "0", "text": "View our projects" },
+    { "id": "1", "text": "View More", "link": "http://www.w3.org/2000/svg" }
+  ],
+  "projectimg": [
+    { "id": "0", "src": "./images/project.home/card-big.jpg", "alt": "womwn" },
+    { "id": "1", "text": "Workhub office Webflow Webflow Design" },
+    {
+      "id": "2",
+      "text": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam "
+    },
+    {
+      "id": "3",
+      "text": "View project ",
+      "link": "http://www.w3.org/2000/svg",
+      "fill": "#2405F2"
+    },
+    { "id": "4", "text": "Workhub office Webflow Webflow Design" },
+    { "id": "5", "text": "View project", "link": "http://www.w3.org/2000/svg" },
+    {
+      "id": "6",
+      "src": "./images/project.home/card-mini-laye.png",
+      "alt": "womwn-bala"
+    },
+    {
+      "id": "7",
+      "src": "./images/project.home/Card-mini.png",
+      "alt": "womwn-payin"
+    }
+  ],
+  "desing": [
+    { "id": "0", "text": "Features" },
+    { "id": "1", "text": "Design that solves problems, one product at a time" }
+  ],
+  "desing2": [
+    {
+      "id": "0",
+      "textone": "Uses Client First",
+      "texttwo": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+    },
+    {
+      "id": "1",
+      "textone": "Two Free Revision Round",
+      "texttwo": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+    },
+    {
+      "id": "2",
+      "textone": "Template Customization",
+      "texttwo": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+    },
+    {
+      "id": "3",
+      "textone": "Hands-on approach",
+      "texttwo": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+    }
+  ],
+  "desing3": [
+    {
+      "id": "0",
+      "textone": "24/7 Support",
+      "texttwo": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+    },
+    {
+      "id": "1",
+      "textone": "Quick Delivery",
+      "texttwo": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+    },
+    {
+      "id": "2",
+      "textone": "Hands-on approach",
+      "texttwo": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+    }
+  ],
+  "aboutustext": [
+    { "id": "0", "text": "What our clients say about us" },
+    {
+      "id": "1",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed."
+    }
+  ],
+  "aboutus": [
+    {
+      "id": "0",
+      "text": "The best agency we’ve worked with so far. They understand our product and are able to add new features with a great focus.",
+      "src": "./images/aboutus.home/woman-in-collared-shirt-774909.png",
+      "textone": "Jenny Wilson",
+      "texttwo": "Vice President"
+    }
+  ],
+  "ustextleft": [
+    {
+      "id": "0",
+      "text": "Frequently asked questions",
+      "texts": "Contact us for more info"
+    }
+  ],
+  "ustextright": [
+    {
+      "id": "1",
+      "textsum": "How much time does it take?",
+      "textp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "2",
+      "textsum": "What is your class naming convention?",
+      "textp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "3",
+      "textsum": "How do you communicate?",
+      "textp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "4",
+      "textsum": "I have a bigger project. Can you handle it?",
+      "textp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "5",
+      "textsum": "What is your class naming convention?",
+      "textp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ],
+  "loginimg": [
+    {
+      "id": "0",
+      "src": "./images/aboutus.home/woman-writing-on-paper-3228878.png",
+      "alt": "loginimg"
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "textone": "Send inquiry",
+      "texttwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "textthre": "Get in touch with us",
+      "phname": "Your Name",
+      "phemail": "Email",
+      "phfigma": "Paste your Figma design URL",
+      "value": "Send an Inquiry"
+    }
+  ],
+  "blog": [
+    {
+      "id": "0",
+      "src": "./images/us.home/arabic-businessman-standing-on-street-and-using-laptop-9623794.png",
+      "alt": "men",
+      "textone": "19 Jan 2022",
+      "texttwo": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+      "textthree": "See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract",
+      "textredmore": "Read More"
+    },
+    {
+      "id": "0",
+      "src": "./images/us.home/woman-in-white-sleeveless-shirt-using-macbook-air-on-brown-wooden-table-3766189.png",
+      "alt": "womwn",
+      "textone": "19 Jan 2022",
+      "texttwo": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+      "textthree": "See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract",
+      "textredmore": "Read More"
+    },
+    {
+      "id": "0",
+      "src": "./images/us.home/apple-monitors-326518.png",
+      "alt": "campouter",
+      "textone": "19 Jan 2022",
+      "texttwo": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+      "textthree": "See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract",
+      "textredmore": "Read More"
+    }
+  ],
+  "footertopleft":[
+    {
+      "id":"0",
+      "text":"We are always open to discuss your project and improve your online presence."
+    },
+    {
+      "id":"1",
+      "textone":"Email me at",
+      "texttwo":"contact@website.com"
+    },
+    {
+      "id":"2",
+      "textone":"Call us",
+      "texttwo":"0927 6277 28525"
+    }
+  ],
+  "footertopright":[
+    {
+      "id":"0",
+      "textone":"Lets Talk!",
+      "texttwo":"We are always open to discuss your project, improve your online presence and help with your UX/UI design challenges."
+    }
+  ],
+  "footerbottom":[
+    {"id":"0","text":"Home"},
+    {"id":"1","text":"HomeAbout us"},
+    {"id":"2","text":"Features"},
+    {"id":"3","text":"Pricing"},
+    {"id":"4","text":"FAQ"},
+    {"id":"5","text":"Blog"}
+  ]
+}

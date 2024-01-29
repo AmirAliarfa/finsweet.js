@@ -66,8 +66,21 @@
             </defs>
           </svg>
         </div>
-        <div class="md:hidden block text-white text-[40px] pt-[30px]">
-            <img src="./images/header.home/menu.png" class="w-full h-1/2" alt="">
+        <div class="imgmenu md:hidden block text-white text-[40px] pt-[30px]">
+          <img
+            src="./images/header.home/menu.png"
+            class="w-full h-1/2"
+            alt=""
+          />
+          <div class="menukesho hidden fixed w-full h-full bg-slate-700/90 top-0 left-0">
+            <div><span class="times absolute top-0 right-[10%] font-[900] text-slate-200 text-[42px]">&times;</span></div>
+            <ul class="text-white text-center text-[18px] w-full font-bold mt-10">
+              <li><a href="index.html">home</a></li>
+              <li><a href="./aboutus.html">aboutus</a></li>
+              <li><a href="./Features.html">features</a></li>
+              <li><a href="./pricing.html">pricing</a></li>
+            </ul>
+          </div>
         </div>
         <div class="text-white md:block hidden">
           <ul class="min-[1200px]:ul max-[1200px]:ul2 ">
@@ -423,5 +436,8 @@
     </footer>
     <!-- end footer :D -->
     <!-- end sayt :D -->
+    <script src="./axios/dist/axios.min.js"></script>
+  <script src="./jquery/dist/jquery.min.js"></script>
+  <script src="./js/main.js" type="module"></script>
 </body>
 </html>
